@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "424fc888-e1db-ddd0-24fa-ef9183ad5fb2",
+  "instructors": {
+    "content": [
+      "52cd6ea0-e37d-3f4a-b4b0-3f914a38c6bd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2279cc33-b639-9db6-432f-afecfe233908",
+    "website": "14-386-new-econometric-methods-spring-2007"
+  },
+  "course_title": "New Econometric Methods",
+  "course_description": "This course focuses on recent developments in econometrics, especially structural estimation. The topics include nonseparable models, models of imperfect competition, auction models, duration models, and nonlinear panel data. Results are illustrated with economic applications.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.386",
+  "course_image_thumbnail": {
+    "content": "b094fd12-1ddd-33a2-9809-a0e93fdda793",
+    "website": "14-386-new-econometric-methods-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "dd31974c-543a-4894-989a-df4cfc24cd3f",
+  "site_short_id": "14.386-spring-2007",
+  "site_url_path": "courses/14-386-new-econometric-methods-spring-2007",
+  "title": "Course Metadata"
+}
