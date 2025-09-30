@@ -4,6 +4,8 @@ description: Lecture notes on treatment effects.
 file: /courses/14-386-new-econometric-methods-spring-2007/436bcfe7307f1a0b18a269ce5c706517_treatment_effect.pdf
 file_size: 192046
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

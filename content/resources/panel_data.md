@@ -4,6 +4,8 @@ description: Lecture notes on nonlinear models in panel data.
 file: /courses/14-386-new-econometric-methods-spring-2007/3bdaa08ea3d67f422d78ba7781f5bd6b_panel_data.pdf
 file_size: 198341
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

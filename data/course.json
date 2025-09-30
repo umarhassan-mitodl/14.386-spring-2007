@@ -27,6 +27,7 @@
     "website": "14-386-new-econometric-methods-spring-2007"
   },
   "course_title": "New Econometric Methods",
+  "hide_download": true,
   "course_description": "This course focuses on recent developments in econometrics, especially structural estimation. The topics include nonseparable models, models of imperfect competition, auction models, duration models, and nonlinear panel data. Results are illustrated with economic applications.\n",
   "department_numbers": [
     "14"
@@ -37,6 +38,7 @@
     "content": "b094fd12-1ddd-33a2-9809-a0e93fdda793",
     "website": "14-386-new-econometric-methods-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],

@@ -164,7 +164,7 @@ Lewbel, A. "Consistent Nonparametric Hypothesis Tests with an Application to Slu
 
 Oreopoulos, P. "Estimating Average and Local Average Treatment Effects of Education when Compulsory Schooling Laws Really Matter." _The American Economic Review_ 96, no. 1 (March 2006): 152-175.
 
-Abadie, A. "{{% resource_link "1c093021-65e7-485c-844c-73bbccec07ce" "Semiparametric Estimation of Instrumental Variable Models for Causal Effects" %}}." National Bureau of Economic Research Working Paper No. 260 (September 2000): 1-42.
+Abadie, A. "[Semiparametric Estimation of Instrumental Variable Models for Causal Effects](http://www.nber.org/papers/t0260)." National Bureau of Economic Research Working Paper No. 260 (September 2000): 1-42.
 
 Ahn, H., and J. Powell. "Semiparametric Estimation of Censored Selection Models with a Nonparametric Selection Mechanism." _Journal of Econometrics_ 58 (1993): 3-29.
 

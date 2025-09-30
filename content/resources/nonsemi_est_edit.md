@@ -4,6 +4,8 @@ description: Lecture notes on nonparametric and semiparametric estimation.
 file: /courses/14-386-new-econometric-methods-spring-2007/4633cb00240d478f1e1be500bfddd82f_nonsemi_est_edit.pdf
 file_size: 480337
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
